@@ -3,3 +3,6 @@ tensorflow-cpu
 opencv-contrib-python-headless
 numpy
 gunicorn
+pandas
+cloudscraper
+Flask-Cors
